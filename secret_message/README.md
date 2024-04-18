@@ -30,7 +30,7 @@ The Secret Message Sharing App is built using HTML, CSS, and JavaScript. It util
 ## Technologies Used:
 
 - HTML
-- CSS (Materialize CSS)
+- CSS
 - JavaScript
 
 ## Project Structure:
