@@ -1,7 +1,3 @@
-Here's the README content for your GitHub repository:
-
----
-
 # Movie Fight
 
 Movie Fight is a simple web application that allows users to compare information about movies fetched from the OMDB API. Users can search for movies on both sides of the screen, and the application will display various statistics about each movie, such as awards, box office earnings, Metascore, IMDb rating, and IMDb votes. Users can compare the statistics of two movies side by side and see which movie comes out on top.
