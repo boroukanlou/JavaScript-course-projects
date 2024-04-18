@@ -24,4 +24,4 @@ This application fetches movie data from the [OMDB API](http://www.omdbapi.com/)
 
 ## Acknowledgements
 
-This project was created as part of a JavaScript course.
+This project is based on a JavaScript tutorial.
