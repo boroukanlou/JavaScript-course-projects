@@ -24,6 +24,7 @@ This game is inspired by various tutorials and resources available online for we
 
 ## Screenshots
 
-<img src="screenshots/1.png"/>
-<img src="screenshots/2.png"/>
+![Screenshot](/screenshots/1.png"/)
+![Screenshot](/screenshots/2.png"/)
+
 
